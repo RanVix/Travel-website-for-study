@@ -10,6 +10,7 @@ In the future I will upload this project to vercel.
 
 1.0 - Initial commit (creating a project)<br>
 1.0.1 - add navbar and mobile burger-menu
+1.0.2 - bug fix
 
 ## For start my code:
 "npm run dev" in console.
