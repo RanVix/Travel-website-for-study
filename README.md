@@ -9,3 +9,8 @@ In the future I will upload this project to vercel.
 ## Versions and what's added to them
 
 1.0 - Initial commit (creating a project)
+1.0.1 - add navbar and mobile burger-menu
+
+## For start my code:
+"npm run dev" in console.
+After open: localhost:3000 in your browser.
